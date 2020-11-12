@@ -23,3 +23,4 @@
 * Model 3 compared koi_slogg.
   The training score was .625, the testing score was .621, and the overall test accuracy was .575
 * It appears, based on these numbers, that out of the data that I analyzed, the koi_steff data analysis had the highest accuracy. 
+(It was interesting that when I compared all the data, in the jupyter notebook file big_data, I got a much higher accuracy score: Training Data Score: 0.828, Testing Data Score: 0.815, Test Acc: 0.811)
