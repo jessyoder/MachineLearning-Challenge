@@ -16,4 +16,10 @@
 
 ### Reporting
 
-* Create a README that reports a comparison of each model's performance as well as a summary about your findings and any assumptions you can make based on your model (is your model good enough to predict new exoplanets? Why or why not? What would make your model be better at predicting new exoplanets?).
+* Model 1 compared the data relating to koi_steff data. 
+The training score was .639, the testing score was .627, and the overall test accuracy was .589
+* Model 2 compared the koi_impact data. 
+The training score was .622, the testing score was .594, and the overall test accuracy was .570
+* Model 3 compared koi_slogg. 
+The training score was .625, the testing score was .621, and the overall test accuracy was .575
+* It appears, based on these numbers, that out of the data that I analyzed, the koi_steff data analysis had the highest accuracy.
